@@ -28,7 +28,8 @@ body{
 .navbar{
 	background: rgb(86, 86, 87);
 	color: rgb(110, 177, 222);
-	padding-bottom: 20px;	
+	padding-bottom: 20px;
+	border: 0;	
 }
 .sr-contact{
 	color: rgb(86, 86, 87);
@@ -45,4 +46,5 @@ body{
 	background: rgba(110, 177, 222, .8);
 	color: rgb(86, 86, 87);
 	padding: 10px;
+	border: 0;
 }
