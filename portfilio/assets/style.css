@@ -1,0 +1,48 @@
+*{
+	/*border: 1px solid red;*/
+	font-family: 'Arimo', sans-serif;
+}
+body{
+	background: url("images/catconstruction2.jpg");
+    max-width: 100%;
+  	background-size: cover;
+}
+#contact{
+	background: rgb(110, 177, 222);
+	color: rgb(86, 86, 87);
+
+}
+#contact > a{
+	color: rgb(86, 86, 87);
+}
+#logo{
+	color: rgb(110, 177, 222);
+	font-family: 'Shrikhand', cursive;
+	font-size: 40px;
+}
+#uc{
+	color: rgb(86, 86, 87);
+	font-family: 'Shrikhand', cursive;
+	font-size: 40px;
+}
+.navbar{
+	background: rgb(86, 86, 87);
+	color: rgb(110, 177, 222);
+	padding-bottom: 20px;	
+}
+.sr-contact{
+	color: rgb(86, 86, 87);
+}
+.spacer{
+	height: 300px;
+}
+.spacer2{
+	height: 1000px;
+}
+.panel {    
+    background-color: transparent;
+    border-radius: 0px;
+	background: rgba(110, 177, 222, .8);
+	color: rgb(86, 86, 87);
+	padding: 10px;
+}
