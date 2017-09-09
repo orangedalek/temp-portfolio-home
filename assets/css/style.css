@@ -1,0 +1,217 @@
+*{
+	/*border: 1px solid red;*/
+	font-family: 'Arimo', sans-serif;
+}
+hr{
+	max-width: 50px;
+	border-width: 3px; 
+}
+h1{
+	font-family: 'Shrikhand', cursive;
+}
+#nav-links a{
+	color: rgb(110, 177, 222) !important;
+	margin-top: 10px;
+}
+#about{
+	padding-top: 150px;
+	padding-bottom: 400px;
+	background: url('../images/oakland.jpg');
+	max-width: 100%;
+	background-size: cover;
+	color: rgb(86, 86, 87);
+}
+#bio{
+	padding-bottom: 50px;
+}
+#profile-pic{
+	max-width: 200px;
+	float: left;
+	margin-right: 20px;
+	border: 0;
+}
+#contact{
+	background: rgb(110, 177, 222);
+	color: rgb(86, 86, 87);
+
+}
+#contact  a{
+	color: rgb(86, 86, 87) !important;
+}
+#logo{
+	color: rgb(110, 177, 222);
+	font-family: 'Shrikhand', cursive;
+	font-size: 40px;
+	margin-top: 10px;
+}
+#fantasticat{
+	background: rgb(86, 86, 87);
+	color: #F5EED3;
+	max-width: 100%;
+	background-size: cover;
+	padding-top: 75px;
+}
+#fantasticat hr{
+	border-color: #F5EED3;
+}
+#mac-love-coffee{
+	background: #F5EED3;
+	color: rgb(86, 86, 87);
+}
+#mac-love-coffee hr{
+	border-color: rgb(86,86, 87);
+	padding-bottom: 20px;
+}
+#mlc{
+	margin-top: 30px;
+	margin-bottom: 20px;
+
+}
+#mac-love-coffee .fa{
+	color: rgb(110, 177, 222);
+}
+#mlc-icons{
+	margin-top: 20px;
+	margin-bottom: 100px;
+}
+#fantasti-button{
+	border-radius: 0px;
+	border: 1px solid #F5EED3;
+	background: transparent;
+	color: #F5EED3;
+	margin-bottom: 30px;
+}
+.navbar{
+	background: rgb(86, 86, 87);
+	color: rgb(110, 177, 222);
+	padding-bottom: 20px;
+	border-bottom: 2px solid #F5EED3;	
+}
+.sr-contact{
+	color: rgb(86, 86, 87);
+}
+.panel{
+	background: transparent;
+	border: 0;
+}
+.panel-body{
+	border-radius: 0px;	
+}
+.carousel-inner img {
+    width: 100%;
+    max-height: 460px
+}
+.header-text {
+    position: absolute;
+    top: 20%;
+    left: 1.8%;
+    right: auto;
+    width: 96.66666666666666%;
+}
+
+/*for the slides*/
+#portfolio-image{
+	width: 100%;
+}
+#stage-title{
+	color: orange;
+	font-family: 'Ek Mukta', sans-serif;
+	font-size: 80px;
+	margin-top: 100px;
+}
+#stage-slide{
+	background-color: rgba(86, 86, 87, .7);
+	color: orange;
+}
+#stage-slide hr{
+	border-color: orange;
+}
+#stage-button{
+	border-radius: 0px;
+	border: 1px solid orange;
+	background: transparent;
+	color: orange;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+#pod-title{
+	color: #a3cba9;
+	font-family: 'Lily Script One', cursive;
+	font-size: 80px;
+	margin-top: 100px;
+}
+#pod-slide{
+	background-color: rgba(2555,255,255,.9);
+	color: #a3cba9;
+}
+#pod-slide hr{
+	border-color: #a3cba9;
+}
+#pod-button{
+	border-radius: 0px;
+	border: 1px solid #a3cba9;
+	background: transparent;
+	color: #a3cba9;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+#cat-title{
+	color: magenta;
+	font-family: 'Shrikhand', cursive;
+	font-size: 80px;
+	margin-top: 100px;
+}
+#cat-slide{
+	background-color: rgba(86, 86, 87, .9);
+	color: magenta;
+}
+#cat-slide hr{
+	border-color: magenta;
+}
+#cat-button{
+	border-radius: 0px;
+	border: 1px solid magenta;
+	background: transparent;
+	color: magenta;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+#portfolio{
+	background: rgb(86,86,87); /* Old Browsers */
+	background: -webkit-linear-gradient(top left,rgb(86,86,87),rgb(245,238,211)); /*Safari 5.1-6*/
+	background: -o-linear-gradient(top left,rgb(86,86,87),rgb(245,238,211)); /*Opera 11.1-12*/
+	background: -moz-linear-gradient(top left,rgb(86,86,87),rgb(245,238,211)); /*Fx 3.6-15*/
+	background: linear-gradient(top left, rgb(86,86,87), rgb(245,238,211)); /*Standard*/
+}
+
+
+
+
+
+
+
+/*for the under construction page only*/
+/*body{
+	background: url("images/catconstruction2.jpg");
+    max-width: 100%;
+  	background-size: cover;
+}*/
+/*#uc{
+	color: rgb(86, 86, 87);
+	font-family: 'Shrikhand', cursive;
+	font-size: 40px;
+}
+.spacer{
+	height: 300px;
+}
+.spacer2{
+	height: 1000px;
+}
+.panel {    
+    background-color: transparent;
+    border-radius: 0px;
+	background: rgba(110, 177, 222, .8);
+	color: rgb(86, 86, 87);
+	padding: 10px;
+	border: 0;
+}*/
