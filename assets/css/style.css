@@ -7,10 +7,10 @@ hr{
 	border-width: 3px; 
 }
 h1{
-	font-family: 'Shrikhand', cursive;
+	font-family: 'Expletus Sans', cursive;
 }
 #nav-links a{
-	color: rgb(110, 177, 222) !important;
+	color: rgb(211, 211, 211) !important;
 	margin-top: 10px;
 }
 #about{
@@ -31,32 +31,35 @@ h1{
 	border: 0;
 }
 #contact{
-	background: rgb(110, 177, 222);
+	background: rgb(211, 211, 211);
 	color: rgb(86, 86, 87);
 
 }
 #contact  a{
 	color: rgb(86, 86, 87) !important;
 }
+#lazy_spacer{
+	height: 70px;
+}
 #logo{
-	color: rgb(110, 177, 222);
-	font-family: 'Shrikhand', cursive;
+	color: rgb(211, 211, 211);
+	font-family: 'Expletus Sans', cursive;
 	font-size: 40px;
 	margin-top: 10px;
 }
 #fantasticat{
-	background: rgb(86, 86, 87);
-	color: #F5EED3;
+	background: rgb(211, 211, 211);
+	color: rgb(86, 86, 87);
 	max-width: 100%;
 	background-size: cover;
 	padding-top: 75px;
 }
 #fantasticat hr{
-	border-color: #F5EED3;
+	border-color: rgb(86, 86, 87);
 }
 #mac-love-coffee{
-	background: #F5EED3;
-	color: rgb(86, 86, 87);
+	background: rgb(86, 86, 87);
+	color: rgb(211, 211, 211);
 }
 #mac-love-coffee hr{
 	border-color: rgb(86,86, 87);
@@ -68,7 +71,7 @@ h1{
 
 }
 #mac-love-coffee .fa{
-	color: rgb(110, 177, 222);
+	color: rgb(211, 211, 211);
 }
 #mlc-icons{
 	margin-top: 20px;
@@ -76,16 +79,16 @@ h1{
 }
 #fantasti-button{
 	border-radius: 0px;
-	border: 1px solid #F5EED3;
+	border: 1px solid rgb(86, 86, 87);
 	background: transparent;
-	color: #F5EED3;
+	color: rgb(86, 86, 87);
 	margin-bottom: 30px;
 }
 .navbar{
 	background: rgb(86, 86, 87);
 	color: rgb(110, 177, 222);
 	padding-bottom: 20px;
-	border-bottom: 2px solid #F5EED3;	
+	border-bottom: 2px solid rgb(211, 211, 211);	
 }
 .sr-contact{
 	color: rgb(86, 86, 87);
@@ -178,10 +181,10 @@ h1{
 }
 #portfolio{
 	background: rgb(86,86,87); /* Old Browsers */
-	background: -webkit-linear-gradient(top left,rgb(86,86,87),rgb(245,238,211)); /*Safari 5.1-6*/
-	background: -o-linear-gradient(top left,rgb(86,86,87),rgb(245,238,211)); /*Opera 11.1-12*/
-	background: -moz-linear-gradient(top left,rgb(86,86,87),rgb(245,238,211)); /*Fx 3.6-15*/
-	background: linear-gradient(top left, rgb(86,86,87), rgb(245,238,211)); /*Standard*/
+	background: -webkit-linear-gradient(top left,rgb(86,86,87),rgb(211,211,211)); /*Safari 5.1-6*/
+	background: -o-linear-gradient(top left,rgb(86,86,87),rgb(211,211,211)); /*Opera 11.1-12*/
+	background: -moz-linear-gradient(top left,rgb(86,86,87),rgb(211,211,211)); /*Fx 3.6-15*/
+	background: linear-gradient(top left, rgb(86,86,87), rgb(211,211,211)); /*Standard*/
 }
 
 

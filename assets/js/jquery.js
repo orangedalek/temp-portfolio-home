@@ -6,7 +6,7 @@ $(document).ready(function(){
 	sr.reveal('.sr-contact');
 
 	$('#fantasti-button').click(function(){
-		window.open('https://www.tumblr.com/blog/jenniesnider', '_blank');
+		window.open('https://jenniesnider.wordpress.com/', '_blank');
 	})
 
 	$('#pod-button').click(function(){
